@@ -1,4 +1,4 @@
-%clear; clc;
+% clear; clc;
 
 % Sample time of the controller
 P.Ts = 0.01;
